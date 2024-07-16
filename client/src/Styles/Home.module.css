@@ -1,0 +1,19 @@
+.container{
+    width: 100vw;
+    height: 100vh;
+    overflow-x: hidden;
+    background-color: #353535;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+}
+.innercontainer{
+    height: 96%;
+    width: 98%;
+    border-radius: 20px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+}
